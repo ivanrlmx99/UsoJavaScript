@@ -1,0 +1,2 @@
+este archivo se agregara al paso dos al stage
+con git add .
